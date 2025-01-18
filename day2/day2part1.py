@@ -32,7 +32,7 @@ def check_valid(array):
         return False
 
 
-with open('inputs/day2input.txt', 'r') as file:
+with open('../inputs/day2input.txt', 'r') as file:
     input_data = file.readlines()
 
     count = 0

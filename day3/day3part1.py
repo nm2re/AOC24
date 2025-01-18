@@ -1,6 +1,6 @@
 import re
 
-with open('inputs/day3input.txt', 'r') as file:
+with open('../inputs/day3input.txt', 'r') as file:
     input_file = file.read()
     pattern = r'mul\(-?\d+,-?\d+\)'
 
